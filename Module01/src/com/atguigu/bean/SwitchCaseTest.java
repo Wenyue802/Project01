@@ -2,7 +2,7 @@ package com.atguigu.bean;
 
 import java.util.Scanner;
 
-public class SwitchTest {
+public class SwitchCaseTest {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("请输入月份");
